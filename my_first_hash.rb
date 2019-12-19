@@ -1,6 +1,6 @@
-def my_hash
+def my_hash(my_hash)
   
-hash = {"my_name" => "Lucy"}
+my_hash = {"my_name" => "Lucy"}
   
 end
 
